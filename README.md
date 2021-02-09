@@ -1,6 +1,6 @@
-# Rock Paper Scissors Exersise
+# Rock Paper Scissors Game
 
-A Python application that allows the user to play rock, paper, scissors against the computer.
+A Python application that allows the user to play "rock, paper, scissors" against the computer.
 
 ## Prerequisites
 
